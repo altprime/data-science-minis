@@ -9,6 +9,6 @@ Just four additional lines of code gives you a nice graph that helps you make th
 From the graph below we can see that __2__ components alone explains almost __92%__ of the variability in the dataset.
 
 <p align="center">
-  <img title='Correlations' src='https://github.com/anxrxdh/eda-ames-housing/blob/master/plots/plot2.jpg'>
+  <img title='Number of Principal Components' src='https://github.com/anxrxdh/data-science-minis/blob/master/select%20principal%20components/plots/no%20of%20princomps.JPG'>
 </p>
 
