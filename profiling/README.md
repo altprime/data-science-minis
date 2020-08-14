@@ -1,4 +1,4 @@
-<h3> PROFILING </h3>
+### PROFILING 
 
 Among the first things that any seasoned data scientist does is <i>exploratory data analysis</i>. It is a sureshot way of figuring the most fundamental constituents of the data  we're working on. Most of us are accustomed to using the <i><b>.describe()</b></i> or the <i><b>.info()</b></i> funciton. But what if I told you there is a much better, faster way of doing this which gives more detailed and comprehensive results? Profiling does exactly that and in an interactive HTML report! 
 
