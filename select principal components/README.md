@@ -1,4 +1,4 @@
-# Selecting the number of Principal Components
+### Selecting the number of Principal Components
 
 The first time I was tasked with finding the principal components, I found myself manually adding the numbers thrown at me as the output of the code I'd just written. All we were told was that as a rule of thumb try to get as many variables that could explain at least 80% of the variability. 
 
